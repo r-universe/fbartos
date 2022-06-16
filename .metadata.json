@@ -1,0 +1,18 @@
+[
+  {
+    "package": "BayesTools",
+    "oncran": true
+  },
+  {
+    "package": "RoBMA",
+    "oncran": true
+  },
+  {
+    "package": "RoBSA",
+    "oncran": true
+  },
+  {
+    "package": "zcurve",
+    "oncran": true
+  }
+]

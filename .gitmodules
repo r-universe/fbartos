@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesTools"]
+	path = BayesTools
+	url = https://github.com/fbartos/bayestools
+	shallow = true
+	registered = true
+[submodule "RoBMA"]
+	path = RoBMA
+	url = https://github.com/fbartos/robma
+	shallow = true
+	registered = true
+[submodule "RoBSA"]
+	path = RoBSA
+	url = https://github.com/fbartos/robsa
+	shallow = true
+	registered = true
+[submodule "zcurve"]
+	path = zcurve
+	url = https://github.com/fbartos/zcurve
+	shallow = true
+	registered = true
