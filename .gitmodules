@@ -18,6 +18,11 @@
 	url = https://github.com/fbartos/robsa
 	shallow = true
 	registered = true
+[submodule "RoBTT"]
+	path = RoBTT
+	url = https://github.com/fbartos/robtt
+	shallow = true
+	registered = true
 [submodule "zcurve"]
 	path = zcurve
 	url = https://github.com/fbartos/zcurve
