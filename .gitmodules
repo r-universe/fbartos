@@ -5,6 +5,9 @@
 [submodule "BayesTools"]
 	path = BayesTools
 	url = https://github.com/fbartos/bayestools
+[submodule "IRR2FPR"]
+	path = IRR2FPR
+	url = https://github.com/fbartos/irr2fpr
 [submodule "RoBMA"]
 	path = RoBMA
 	url = https://github.com/fbartos/robma
