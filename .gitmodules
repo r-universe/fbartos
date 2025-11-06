@@ -8,6 +8,9 @@
 [submodule "IRR2FPR"]
 	path = IRR2FPR
 	url = https://github.com/fbartos/irr2fpr
+[submodule "PublicationBiasBenchmark"]
+	path = PublicationBiasBenchmark
+	url = https://github.com/fbartos/publicationbiasbenchmark
 [submodule "RoBMA"]
 	path = RoBMA
 	url = https://github.com/fbartos/robma
